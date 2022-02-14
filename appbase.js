@@ -58,7 +58,7 @@ client.on('message', async msg => {
 
     //msg.reply("🤑 AUMENTE O FATURAMENTO DOS SEUS LANÇAMENTOS DISPARANDO MENSAGENS DIRETAMENTE PARA O WHATSAPP PESSOAL DE CADA LEAD, SEM PRECISAR DE CELULAR. DE FORMA AUTOMÁTICA E EM MASSA. \r\n\r\nhttps://zapdasgalaxias.com.br/ \r\n\r\n⏱️ As inscrições estão *ABERTAS*");
   
-   	client.sendMessage(msg.from, '\r\n\r\n👨‍🍳 Olá, acesse nosso link abaixo para fazer seu pedido com mais agilidade. \r\n\https://fratelli.foodcidade.com/ \r\n\r\n⏱️ Tempo hoje *60Min*');    
+   	 client.sendMessage(msg.from, '\r\n\r\n👨‍🍳 Olá, acesse nosso link abaixo para fazer seu pedido com mais agilidade. \r\n\https://fratelli.foodcidade.com/ \r\n\r\n⏱️ Tempo hoje *60Min*');    
  
   
 });
